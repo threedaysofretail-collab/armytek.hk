@@ -1,0 +1,128 @@
+[
+  {
+    "path": "images/HK/Bag_EN__112__esb8-gc.png",
+    "source_url": "https://nova.armytek.ru/images/HK/Bag_EN__112__esb8-gc.png",
+    "sha256": "961aec13fdd43ba16896e3ae58f70a64113bdebdab314886da50fa4e83b5e6e0",
+    "bytes": 5376,
+    "width": 100,
+    "height": 100,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/BF_2026_01_2880x1305.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/BF_2026_01_2880x1305.jpg",
+    "sha256": "a8c636d1484466bd96bdc67346df386dc3f4f7b8d0cd8a29b5b1fbaa0c8f69c8",
+    "bytes": 432078,
+    "width": 2048,
+    "height": 928,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Bear_WRG_04_G_BG.png",
+    "source_url": "https://nova.armytek.ru/images/HK/Bear_WRG_04_G_BG.png",
+    "sha256": "e46b64f2ad8a13b0f99379ba0c417218bc4f2132e966d7bbd0574d849021e828",
+    "bytes": 466988,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Crystal_v2_Pro_3D_01_W_BG.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/Crystal_v2_Pro_3D_01_W_BG.jpg",
+    "sha256": "04bf95085f0bd64d41d77bc24d68459f7ddc20045760ad3d39dcd616c3b767c6",
+    "bytes": 89881,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Crystal_v2_Reg_Grey_05_G_BG_sam4-7s.png",
+    "source_url": "https://nova.armytek.ru/images/HK/Crystal_v2_Reg_Grey_05_G_BG_sam4-7s.png",
+    "sha256": "6ce66b4ed376166aae39ecf5ed9d6edf13400d33e63615904b3d279094845928",
+    "bytes": 1936307,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Elf_v2.5_C2_05_G_BG_lwxm-fo.png",
+    "source_url": "https://nova.armytek.ru/images/HK/Elf_v2.5_C2_05_G_BG_lwxm-fo.png",
+    "sha256": "9ed212db53a70bb2f983bdef1044be24a848dbc6e4172b9872b80af18f4d1003",
+    "bytes": 622192,
+    "width": 2048,
+    "height": 2048,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Elf_v2.5_C2_Max_03_G_BG.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/Elf_v2.5_C2_Max_03_G_BG.jpg",
+    "sha256": "ea4e793b3592503a6198530a3fedb56c40c75732725392b2e10fa5d9206b615d",
+    "bytes": 185547,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Elf_v2.5_C2_Max_LR_04_G_BG.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/Elf_v2.5_C2_Max_LR_04_G_BG.jpg",
+    "sha256": "91bd594cea088ddd36cd4d3ed1b29788ff97a2f722df5cf3e6af9f49262b9642",
+    "bytes": 612347,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Elf_v2.5_C2_Max_WR_01_W_BG.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/Elf_v2.5_C2_Max_WR_01_W_BG.jpg",
+    "sha256": "3289fe260023e8ce700fb2ab74f20fb40028b886d382414452a5e7e8fca27680",
+    "bytes": 191918,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/HeadBand_Wizard-C2-WR_Red_White_9a0c-2r.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/HeadBand_Wizard-C2-WR_Red_White_9a0c-2r.jpg",
+    "sha256": "ece560eec9f0828f1e17ae54e967ba658b68568fb73f0141f9e7ed32b61bb184",
+    "bytes": 54358,
+    "width": 915,
+    "height": 801,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/HeadMount_Wizard_C2_Pro_Max_v4_white.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/HeadMount_Wizard_C2_Pro_Max_v4_white.jpg",
+    "sha256": "a0413721c6895fb62723e3a79b1ba3f170f0e24d59d019311266a299e1c23425",
+    "bytes": 658996,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Prime_C2_Pro_clip_white.jpg",
+    "source_url": "https://nova.armytek.ru/images/HK/Prime_C2_Pro_clip_white.jpg",
+    "sha256": "34457e023cdb13c7dd58466cfcd2172d4e62adc83a6b99b760fa8f5afff70198",
+    "bytes": 134957,
+    "width": 915,
+    "height": 801,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Prime_v4_C2_Pro_Max_Grey_02.png",
+    "source_url": "https://nova.armytek.ru/images/HK/Prime_v4_C2_Pro_Max_Grey_02.png",
+    "sha256": "ea734ecd44cee0f818f33d88eb5571c99d78276109753e778668dfc99213af82",
+    "bytes": 651253,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  },
+  {
+    "path": "images/HK/Wizard_C2_Pro_Max_LR_04_G_BG.png",
+    "source_url": "https://nova.armytek.ru/images/HK/Wizard_C2_Pro_Max_LR_04_G_BG.png",
+    "sha256": "88191246cf9b1c19811eee741215493465d8af8b12557033f6303d741f9fa881",
+    "bytes": 1170946,
+    "width": 2000,
+    "height": 2000,
+    "provided_attachment": true
+  }
+]

@@ -1,0 +1,18 @@
+ARMYTEK — READY-TO-UPLOAD STATIC SITE
+
+1. Extract this ZIP.
+2. Upload its contents to the document root of armytek.hk (often public_html or www).
+3. index.html, assets and images must be at the same root level.
+4. Use index.html as the default document. No PHP, database or installation is required.
+5. Keep all image filenames and folders unchanged; all 14 images are already included.
+
+You can also open index.html directly after extracting the complete archive.
+
+The Send Request form is a visual preview. It does not send or save entered data.
+Only first and last names are required; email and phone are optional.
+Confirm displays: "Your form has not been sent. This feature is currently under development."
+Actual contact email: armytekm@gmail.com.
+
+Content source: manager-supplied template (26 November 2026).
+Styles: compiled repository LESS plus the manager template's CSS overrides.
+Browser visual verification remains to be completed on the target host.
